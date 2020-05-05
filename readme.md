@@ -44,7 +44,7 @@ These files can be also found [here](https://drive.google.com/drive/folders/1MfL
 	libopencv_imgproc.4.1.dylib
 	libopencv_imgproc.dylib
 	libtesseract.4.dylib
-4. copy EAST descriptor and tesseract trained data ("frozen_east_text_detection.pb", "eng.traineddata", "osd.traineddata", "snum.traineddata" in "data") to "LIST.app/Contents/Resources"
+4. copy EAST descriptor and tesseract trained data ("frozen_east_text_detection.pb", "eng.traineddata", "osd.traineddata", "snum.traineddata") to "LIST.app/Contents/Resources"
 5. copy "src/LIST.ini" to "LIST.app/Contents/MacOS"
 6. copy sample SEM images to "LIST.app/Samples" (optional)
 7. run again: macdeployqt LIST.app -dmg (make sure to use macdeploygt from the same QT directory)
