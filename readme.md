@@ -20,7 +20,7 @@ The following files are required to run the application:
 - EAST detector checkpoint: [frozen_east_text_detection.pb](https://github.com/ZER-0-NE/EAST-Detector-for-text-detection-using-OpenCV/blob/master/frozen_east_text_detection.pb), see [argman/EAST on gitHub](https://github.com/argman/EAST) for more detail
 - Tesseract trained data: eng.traineddata, osd.traineddata, snum.traineddata, see [tesseract-ocr on GitHub](https://github.com/tesseract-ocr/tesseract) for more detail
 
-These files can be also found [here](https://drive.google.com/drive/folders/1MfLdESnFcCaTKs58F6ZO749nWR7ZJ7Tb?usp=sharing)
+These files can be also found [here](https://drive.google.com/drive/folders/1OZpahXs4Cjl32rLvtefyhCaiHONB7SL4?usp=sharing)
 
 
 
@@ -49,7 +49,7 @@ These files can be also found [here](https://drive.google.com/drive/folders/1MfL
 6. copy sample SEM images to "LIST.app/Samples" (optional)
 7. run again: macdeployqt LIST.app -dmg (make sure to use macdeploygt from the same QT directory)
 
-A precompiled DMG file as a MacOSX bundle is provided [here](https://drive.google.com/open?id=1_dPXcsjAlofaR7098_31mNNZ4o1S4cqG). Note that the DMG file contains all required libraries and data files. 
+A precompiled DMG file as a MacOSX bundle will be provided soon. 
 
 
 
