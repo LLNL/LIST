@@ -13,15 +13,14 @@ Scanning Electron Microscopy (SEM) images provide a variety of structural and mo
 - [Tesseract (with JPEG library)](https://github.com/tesseract-ocr/tesseract)
 - [Persistence1d.hpp](http:://www.csc.kth.se/~weinkauf/notes/persistence1d.html)
 
-Note that the provided DMG file contains all required libraries as a MacOSX bundle. 
-
 
 ### Running the application
 
-- EAST detector checkpoint: frozen_east_text_detection.pb (argman/EAST on gitHub)
-- Tesseract trained data: eng.traineddata, osd.traineddata, snum.traineddata (tesseract-ocr/langdata on GitHub)
+The following files are required to run the application:
+- EAST detector checkpoint: [frozen_east_text_detection.pb](https://github.com/ZER-0-NE/EAST-Detector-for-text-detection-using-OpenCV/blob/master/frozen_east_text_detection.pb), see [argman/EAST on gitHub](https://github.com/argman/EAST) for more detail
+- Tesseract trained data: eng.traineddata, osd.traineddata, snum.traineddata, see [tesseract-ocr on GitHub](https://github.com/tesseract-ocr/tesseract) for more detail
 
-See the paper (under Author section) for more detail about the text detection and recognition. 
+These files can be also found [here](https://drive.google.com/drive/folders/1MfLdESnFcCaTKs58F6ZO749nWR7ZJ7Tb?usp=sharing)
 
 
 
@@ -49,6 +48,8 @@ See the paper (under Author section) for more detail about the text detection an
 5. copy "src/LIST.ini" to "LIST.app/Contents/MacOS"
 6. copy sample SEM images to "LIST.app/Samples" (optional)
 7. run again: macdeployqt LIST.app -dmg (make sure to use macdeploygt from the same QT directory)
+
+A precompiled DMG file as a MacOSX bundle is provided [here](https://drive.google.com/open?id=1_dPXcsjAlofaR7098_31mNNZ4o1S4cqG). Note that the DMG file contains all required libraries and data files. 
 
 
 
