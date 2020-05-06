@@ -2,7 +2,7 @@
 
 Scanning Electron Microscopy (SEM) images provide a variety of structural and morphological information for the characterization of the nanomaterials in material science and chemistry communities. This code offers automatic recognition and quantitative analysis of SEM images in a high-throughput manner using computer vision and machine learning techniques. The main function of this application is to extract particle size and morphology information of overlapping nanoparticles and core-shell nanostructures in a user friendly interface. The code is written in C++ with QT environment, and has been tested on MacOSX. 
 
-![](https://github.com/LLNL/LIST/blob/master/sample_screen01.png) <!-- .element height="50%" width="50%" -->
+<img src="https://github.com/LLNL/LIST/blob/master/sample_screen01.png" width="500">
 
 
 ## Getting Started
