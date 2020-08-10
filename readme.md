@@ -50,7 +50,7 @@ These files can be also found [here](https://drive.google.com/drive/folders/1OZp
 6. copy sample SEM images to "LIST.app/Samples" (optional)
 7. run again: macdeployqt LIST.app -dmg (make sure to use macdeploygt from the same QT directory)
 
-A precompiled DMG file as a MacOSX bundle will be provided soon. 
+A precompiled DMG file as a MacOSX bundle can be found [here](https://drive.google.com/drive/folders/1f5ONVH94rWRp8fPzikE2TYz8lVUJ9w2o?usp=sharing)
 
 
 
