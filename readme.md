@@ -81,7 +81,7 @@ This project was supported by a LLNL's lab directed research and development - s
 
 If you need to reference LIST in a publication, please cite the following paper:
 
-Hyojin Kim, Jinkyu Han, T. Yong Han, "Machine Vision-Driven Automatic Recognition of Particle Size and Morphology in SEM Images", submitted to Nanoscale, 2020. 
+[Hyojin Kim, Jinkyu Han, T. Yong Han, "Machine Vision-Driven Automatic Recognition of Particle Size and Morphology in SEM Images", Nanoscale, 2020, 10.1039/D0NR04140H](https://pubs.rsc.org/en/Content/ArticleLanding/2020/NR/D0NR04140H#!divAbstract)
 
 
 
